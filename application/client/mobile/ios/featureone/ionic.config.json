@@ -1,0 +1,7 @@
+{
+  "name": "featureone",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
